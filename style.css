@@ -1,0 +1,43 @@
+.nav-item {
+  margin-left: 40px;
+  font-size: 20px;
+  font-weight: 500;
+}
+.nav-link {
+  color: black;
+}
+.cont {
+  position: relative;
+}
+
+.bi {
+    margin-left: 20px;
+    font-size: xx-large;
+}
+
+.text-block {
+  position: absolute;
+  top: 200px;
+  left: 60px;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.butn {
+  font-size: 17px;
+  text-transform: uppercase;
+  text-decoration: none;
+  padding: 1em 2.5em; 
+  display: inline-block; 
+  border-radius: 6em; 
+  border: none;
+  font-family: inherit;
+  font-weight: 500;
+  color: black;
+   background-color: white;
+}
+
+.footerlink{
+    color: black;
+}
